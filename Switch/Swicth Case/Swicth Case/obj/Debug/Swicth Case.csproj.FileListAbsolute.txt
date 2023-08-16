@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\bin\Debug\Swicth Case.exe.config
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\bin\Debug\Swicth Case.exe
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\bin\Debug\Swicth Case.pdb
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth Case.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth_Case.Form1.resources
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth_Case.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth Case.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth Case.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth Case.exe
+C:\Users\Fatec\Desktop\Switch\Swicth Case\Swicth Case\obj\Debug\Swicth Case.pdb
